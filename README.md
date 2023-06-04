@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **New projects! Coming soon!**
 
-- 🤝 I’m looking for help with **Networking! Please shoot me an message and tell me about your projects/experiences!**
+- 🤝 I’m looking for help with **Networking! Please shoot me a message (on LinkedIn or my email below) and tell me about your projects/experiences!**
 
 - 👨‍💻 All of my projects are available at **See pinned repos OR visit my website (coming soon!)**
 
