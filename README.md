@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Networking! Please shoot me an message and tell me about your projects/experiences!**
 
-- 👨‍💻 All of my projects are available at [See pinned repos OR visit my website [coming soon]](See pinned repos OR visit my website [coming soon])
+- 👨‍💻 All of my projects are available at **See pinned repos OR visit my website (coming soon!)**
 
 - 💬 Ask me about **Spade Invaders, my learning experience, future project ideas (Traditional Card Game played in a browser!!!)**
 
 - 📫 How to reach me **mattcphillips17@gmail.com**
 
-- 📄 Know about my experiences [[resume coming soon]]([resume coming soon])
+- 📄 Know about my experiences **[resume coming soon!]**
 
 - ⚡ Fun fact **I love video games and would eventually like to build one**
 
