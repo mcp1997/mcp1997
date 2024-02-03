@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matthew (Matt) Phillips</h1>
-<h3 align="center">Frontend Web Dev | Backend Web Dev | HTML | CSS | JavaScript | React | Node.js | SQL</h3>
+<h3 align="center">Full-Stack Web Dev | HTML | CSS | JavaScript | React | Node | SQL</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcp1997" alt="mcp1997" /></a> </p>
 
 - 🔭 I’m currently working on [Spade Invaders - Retro Arcade-themed Blackjack](https://github.com/mcp1997/spade-invaders)
 
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **New projects! Coming soon!**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🤝 I’m looking for help with **Networking! Please shoot me a message (on LinkedIn or my email below) and tell me about your projects/experiences!**
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **mattcphillips17@gmail.com**
 
-- 📄 Know about my experiences **(resume coming soon!)**
+- 📄 Know about my experiences - [Resume](https://docs.google.com/document/d/12gwDizBv8dHpgGxQMqE1L1iyHy1LmSHwy_2Qj0-eSpA/edit?usp=sharing)
 
 - ⚡ Fun fact **I love video games and would eventually like to build one**
 
