@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Spade Invaders - Retro Arcade-themed Blackjack](https://github.com/mcp1997/spade-invaders)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js** and **TypeScript**
 
 - 🤝 I’m looking for help with **Networking! Please shoot me a message (on LinkedIn or my email below) and tell me about your projects/experiences!**
 
