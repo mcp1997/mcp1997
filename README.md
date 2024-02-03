@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Networking! Please shoot me a message (on LinkedIn or my email below) and tell me about your projects/experiences!**
 
-- 👨‍💻 All of my projects are available at **See pinned repos OR visit my website (coming soon!)**
+- 👨‍💻 All of my projects are available at - **See pinned repos OR visit my website (coming soon!)**
 
 - 💬 Ask me about **Spade Invaders, my learning experience, future project ideas (Traditional Card Game played in a browser!!!)**
 
-- 📫 How to reach me **mattcphillips17@gmail.com**
+- 📫 How to reach me - **mattcphillips17@gmail.com**
 
 - 📄 Know about my experiences - [Resume](https://docs.google.com/document/d/12gwDizBv8dHpgGxQMqE1L1iyHy1LmSHwy_2Qj0-eSpA/edit?usp=sharing)
 
-- ⚡ Fun fact **I love video games and would eventually like to build one**
+- ⚡ Fun fact - **I love video games and would eventually like to build one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
