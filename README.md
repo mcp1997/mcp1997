@@ -15,7 +15,7 @@
 
 - 📫 How to reach me - **mattcphillips17@gmail.com**
 
-- 📄 Know about my experiences - [Resume](https://docs.google.com/document/d/12gwDizBv8dHpgGxQMqE1L1iyHy1LmSHwy_2Qj0-eSpA/edit?usp=sharing)
+- 📄 Know about my experiences - [Resume]()
 
 - ⚡ Fun fact - **I love video games and would eventually like to build one**
 
